@@ -10,9 +10,24 @@ body {
   -webkit-box-sizing: border-box;
 }
 
-.container {
+.container, footer {
     width: 550px;
     margin: 0 auto;
+}
+
+footer {
+  text-align: center;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+footer a {
+  color: #fafafa;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #ff3f3f;
 }
 
 @media all and (max-width: 412px) {
