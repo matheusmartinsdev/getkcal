@@ -1,5 +1,5 @@
 # Calculadora de Calorias (getKcal)
-Projeto desenvolvido usando como base o exercício proposto por [@maateusilva](https://github.com/maateusilva) em seu [vídeo](https://www.youtube.com/watch?v=yiDq9wUiUjc&t=452s).
+Projeto desenvolvido usando como base o exercício proposto por [@maateusilva](https://github.com/maateusilva) em seu [vídeo](https://www.youtube.com/watch?v=yiDq9wUiUjc).
 
 **Adicionei:**
 - um melhor suporte à responsividade para dipositivos até 412px de width;
